@@ -1,4 +1,4 @@
-1.5 Casting and Ranges of Values
+# 1.5 Casting and Ranges of Values
 
 - type casting is used to convert values from one type to another.
 - (double)2 converts 2 from an int to a double
