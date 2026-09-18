@@ -1,0 +1,5 @@
+1.5 Casting and Ranges of Values
+
+- type casting is used to convert values from one type to another.
+- (double)2 converts 2 from an int to a double
+- If you try to store any number larger or smaller than Integer.MIN_VALUE and Integer.MAX_VALUE this will result in an integer overflow.

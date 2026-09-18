@@ -1,0 +1,9 @@
+1.9 Method Signatures
+
+- Procedural abstraction allows a programmer to use a method and not worry about the details of how it exactly works.
+- A method call is when the code “calls out” the method’s name in order to run the code in the method. 
+- A method header is the first line of a method that includes the method name, the return type, and the parameter list of parameters and their data types.
+- The return type is the type of value that the method returns; in this lesson, we’ll just look at void return types which means the method doesn’t return anything.
+- The parameter list is a list of variables and their data types that are passed to the method when it is called.
+- The argument is the actual value that is passed to the method when it is called.
+- Methods are said to be overloaded when there are multiple methods with the same name but different signatures.

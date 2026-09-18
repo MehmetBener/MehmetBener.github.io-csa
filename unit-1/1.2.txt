@@ -1,0 +1,8 @@
+1.2 Variables and Data Types
+
+- Two types of data types: primitive (ex: int, boolean) and reference (ex: String) data types. 
+- Reference data holds a reference to a more complex data. 
+- Reference data starts with an uppercase.
+- Variables are declared (instantiated) and initialized (set to a value). 
+- String concatenation is done with +.
+- Variable names can't start with a number. 

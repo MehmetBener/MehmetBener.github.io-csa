@@ -1,0 +1,9 @@
+1.8 Documentation with Comments and Preconditions
+
+- // Single line comment
+- /* Multiline block of comments */
+- /** Java documentation comments */
+- Many methods in API libraries have preconditions and the postconditions described in their comments.
+- Precondition: A condition that must be true for your method code to work
+- Postcondition: A condition that is true after running the method. What the method promises to do.
+- Determining the preconditions and postconditions help us to test our code and determine the validity of our software. 

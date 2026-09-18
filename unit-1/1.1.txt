@@ -1,0 +1,19 @@
+1.1 Introduction to Algorithms, Programming, and Compilers
+
+- Sequencing: An order for when steps in a process are completed. 
+- Java is an Object-Oriented Language.
+- When you tell Java to run a class, it will always start execution in the main method.
+
+public class MyClass
+{
+    public static void main(String[] args)
+    {
+        // Put your code here!
+    }
+}
+
+- Keywords are lowercase in Java but some class names like String and System are uppercase. 
+- Semicolons are not needed when closing curly brackets. 
+- Syntax errors are reported to the compiler. Compiler error messages helps debug. 
+- Runtime errors are errors that don't get reported by the compiler but they occur when the code is running.
+- Logic errors are make the algorithm behave incorrectly. 

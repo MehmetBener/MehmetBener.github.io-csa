@@ -1,0 +1,7 @@
+1.7 APIs and Libraries
+
+- A collection of code written by other programmers that we can use is called a library. 
+- How to use a library are described in its Application Programming Interface. 
+- Attributes: The data related to the class and are stored in variables.
+- Behaviours: what instances of the class can do and are defined by methods.
+- In Java, related classes can be grouped together into a package. Import packages.
