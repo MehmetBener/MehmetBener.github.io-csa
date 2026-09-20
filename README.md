@@ -1,6 +1,13 @@
-# AP CS A Notes
+# AP CS A Projects
 
-Hi! This is my website for our AP CS A class this year.
+[Farmer Ryan](/programs/FarmerRyan.java)
+
+[Get It Into Gear](/programs/GetItIntoGear.java)
+
+
+---
+
+# AP CS A Notes
 
 ## Unit 1: Using Objects and Methods
 
