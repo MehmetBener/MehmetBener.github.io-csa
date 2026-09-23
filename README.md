@@ -31,3 +31,5 @@ Class notes and projects for AP Computer Science A.
 | 1.7 | [APIs and Libraries](unit-1/1.7.md) |
 | 1.8 | [Documentation with Comments and Preconditions](unit-1/1.8.md) |
 | 1.9 | [Method Signatures](unit-1/1.9.md) |
+| 1.10 | [Calling Class Methods](unit-1/1.10.md) |
+| 1.11 | [Math Class](unit-1/1.11.md) |
