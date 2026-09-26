@@ -33,3 +33,6 @@ Class notes and projects for AP Computer Science A.
 | 1.9 | [Method Signatures](unit-1/1.9.md) |
 | 1.10 | [Calling Class Methods](unit-1/1.10.md) |
 | 1.11 | [Math Class](unit-1/1.11.md) |
+| 1.12 | [Objects: Instances of Classes](unit-1/1.12.md) |
+| 1.13 | [Object Creation and Storage (Instantiation)](unit-1/1.13.md) |
+| 1.14 | [Calling Instance Methods](unit-1/1.14.md) |
