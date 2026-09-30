@@ -36,3 +36,4 @@ Class notes and projects for AP Computer Science A.
 | 1.12 | [Objects: Instances of Classes](unit-1/1.12.md) |
 | 1.13 | [Object Creation and Storage (Instantiation)](unit-1/1.13.md) |
 | 1.14 | [Calling Instance Methods](unit-1/1.14.md) |
+| 1.15 | [String Manipulation](unit-1/1.15.md) |
