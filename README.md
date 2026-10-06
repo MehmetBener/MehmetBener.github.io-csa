@@ -39,3 +39,12 @@ Class notes and projects for AP Computer Science A.
 | 1.13 | [Object Creation and Storage (Instantiation)](unit-1/1.13.md) |
 | 1.14 | [Calling Instance Methods](unit-1/1.14.md) |
 | 1.15 | [String Manipulation](unit-1/1.15.md) |
+
+### Unit 2: Selection and Iteration
+
+| # | Topic |
+|---|-------|
+| 2.1 | [Algorithms with Selection and Repetition](unit-1/2.1.md) |
+| 2.2 | [Boolean Expressions](unit-1/2.2.md) |
+| 2.3 | [if Statements](unit-1/2.3.md) |
+
