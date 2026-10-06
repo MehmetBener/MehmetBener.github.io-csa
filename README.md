@@ -44,7 +44,7 @@ Class notes and projects for AP Computer Science A.
 
 | # | Topic |
 |---|-------|
-| 2.1 | [Algorithms with Selection and Repetition](unit-1/2.1.md) |
-| 2.2 | [Boolean Expressions](unit-1/2.2.md) |
-| 2.3 | [if Statements](unit-1/2.3.md) |
+| 2.1 | [Algorithms with Selection and Repetition](unit-2/2.1.md) |
+| 2.2 | [Boolean Expressions](unit-2/2.2.md) |
+| 2.3 | [if Statements](unit-2/2.3.md) |
 
