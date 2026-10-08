@@ -15,6 +15,7 @@ Class notes and projects for AP Computer Science A.
 | Yemeksepeti | [Yemeksepeti.java](/programs/Yemeksepeti.java) |
 | Filament Record | [FilamentRecord.java](/programs/FilamentRecord.java) |
 | Robot Build | [RobotBuild.java](/programs/RobotBuild.java) |
+| Text Editor | [TextEditor.java](/programs/TextEditor.java) |
 
 ---
 
