@@ -49,4 +49,8 @@ Class notes and projects for AP Computer Science A.
 | 2.1 | [Algorithms with Selection and Repetition](unit-2/2.1.md) |
 | 2.2 | [Boolean Expressions](unit-2/2.2.md) |
 | 2.3 | [if Statements](unit-2/2.3.md) |
+| 2.4 | [Nested if Statements](unit-2/2.4.md) |
+| 2.5 | [Compond Boolean Expressions](unit-2/2.5.md) |
+| 2.6 | [Comparing Boolean Expressions](unit-2/2.6.md) |
+| 2.7 | [while Loops](unit-2/2.7.md) |
 
