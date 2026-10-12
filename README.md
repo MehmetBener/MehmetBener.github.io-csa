@@ -17,6 +17,7 @@ Class notes and projects for AP Computer Science A.
 | Robot Build | [RobotBuild.java](/programs/RobotBuild.java) |
 | Text Editor | [TextEditor.java](/programs/TextEditor.java) |
 | Triage Queue | [TriageQueue.java](/programs/TriageQueue.java) |
+| Digit Detective | [digitDetective.java](/programs/digitDetective.java) |
 
 ---
 
