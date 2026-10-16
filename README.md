@@ -54,4 +54,5 @@ Class notes and projects for AP Computer Science A.
 | 2.5 | [Compond Boolean Expressions](unit-2/2.5.md) |
 | 2.6 | [Comparing Boolean Expressions](unit-2/2.6.md) |
 | 2.7 | [while Loops](unit-2/2.7.md) |
+| 2.8 | [for Loops](unit-2/2.8.md) |
 
