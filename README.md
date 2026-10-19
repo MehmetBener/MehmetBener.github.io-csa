@@ -18,6 +18,7 @@ Class notes and projects for AP Computer Science A.
 | Text Editor | [TextEditor.java](/programs/TextEditor.java) |
 | Triage Queue | [TriageQueue.java](/programs/TriageQueue.java) |
 | Digit Detective | [digitDetective.java](/programs/digitDetective.java) |
+| String Detective | [StringDetective.java](/programs/StringDetective.java) |
 
 ---
 
