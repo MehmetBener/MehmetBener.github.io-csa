@@ -20,6 +20,7 @@ Class notes and projects for AP Computer Science A.
 | Digit Detective | [digitDetective.java](/programs/digitDetective.java) |
 | String Detective | [StringDetective.java](/programs/StringDetective.java) |
 | Loop Comparison | [LoopComparison.java](/programs/LoopComparison.java) |
+| Half Diamond | [HalfDiamond.java](/programs/HalfDiamond.java) |
 
 ---
 
