@@ -19,6 +19,7 @@ Class notes and projects for AP Computer Science A.
 | Triage Queue | [TriageQueue.java](/programs/TriageQueue.java) |
 | Digit Detective | [digitDetective.java](/programs/digitDetective.java) |
 | String Detective | [StringDetective.java](/programs/StringDetective.java) |
+| Loop Comparison | [LoopComparison.java](/programs/LoopComparison.java) |
 
 ---
 
